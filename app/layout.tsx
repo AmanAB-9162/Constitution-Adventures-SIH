@@ -4,9 +4,9 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Constituion Adventures',
+  description: 'Learn about the Indian Constitution through interactive games and quizzes',
+  generator: 'Aman Bhagat',
 }
 
 export default function RootLayout({
