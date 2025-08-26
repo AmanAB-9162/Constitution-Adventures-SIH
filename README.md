@@ -169,7 +169,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📧 Contact
 
 For questions or feedback, reach out to:
-- **Email**: your-email@example.com
+- **Email**: amanbhagat.191@gmail.com
 - **GitHub**: [AmanAB-9162](https://github.com/AmanAB-9162)
 
 ---
